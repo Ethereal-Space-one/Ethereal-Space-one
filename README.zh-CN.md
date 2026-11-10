@@ -1,6 +1,6 @@
 <p align="right"><a href="README.md">English</a> · <strong>简体中文</strong></p>
 
-![Ethereal Space — Tools for knowledge. Room for imagination.](assets/header-v3.svg)
+![Ethereal Space — Tools for knowledge. Room for imagination.](assets/header-v4.svg)
 
 我在构建关于**知识、创造力与个人互联网**的开放工具。
 
