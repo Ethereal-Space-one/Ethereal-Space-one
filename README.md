@@ -14,11 +14,11 @@ My projects explore how AI can help us understand code, bring stories into view,
 
 <a href="https://github.com/Ethereal-Space-one/code2kb-agent-toolkit"><img src="assets/code2kb-v3.svg" width="100%" alt="Code2KB Agent Toolkit · Knowledge" /></a>
 
-A toolkit for your AI coding assistant to turn **business logic extracted from source code into evidence-backed knowledge for chatbot retrieval**.
+A toolkit for your AI coding assistant to turn **business logic extracted from source code** into **evidence-backed knowledge for chatbot retrieval**.
 
-The assistant extracts and writes; the CLI checks evidence records and review state, then produces release files. Search indexes and chatbot deployment stay with you.
+**Workflow.** The assistant extracts and writes; the CLI checks evidence records and review state, then produces release files. Search indexes and chatbot deployment stay with you.
 
-[Explore the toolkit ↗](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit) · [Getting started](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit#快速开始)
+[Explore the toolkit](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit) · [Getting started](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/blob/main/README.en.md#quick-start)
 
 <br>
 
@@ -28,9 +28,9 @@ The assistant extracts and writes; the CLI checks evidence records and review st
 
 **Prompt workflows and a local workbench for illustrated fiction**, preserving the original text while coordinating characters, scenes and optional voice.
 
-Public preview for chapters and short stories: generate images in your own tools, review continuity, and export a standalone reader.
+**Public preview.** For chapters and short stories: generate images in your own tools, review continuity, and export a standalone reader.
 
-[Read the Chibi showcase ↗](https://ethereal-space-one.github.io/taleprism/) · [Explore the project](https://github.com/Ethereal-Space-one/taleprism)
+[Read the Chibi showcase](https://ethereal-space-one.github.io/taleprism/) · [Explore the project](https://github.com/Ethereal-Space-one/taleprism)
 
 <br>
 
@@ -40,9 +40,9 @@ Public preview for chapters and short stories: generate images in your own tools
 
 An open browser project aiming to make **your intent, not a recommendation feed, the starting point**, and bring your chosen Agent into the same browsing session.
 
-The Electron prototype supports search, page reading and authorized read-only MCP access. Agent actions and takeover remain planned; this is not yet a daily-use browser.
+**Prototype.** The Electron prototype supports search, page reading and authorized read-only MCP access. Agent actions and takeover remain planned; this is not yet a daily-use browser.
 
-[Explore the experiment ↗](https://github.com/Ethereal-Space-one/grid-browser) · [Product direction](https://github.com/Ethereal-Space-one/grid-browser/blob/main/PLAN.md)
+[Explore the experiment](https://github.com/Ethereal-Space-one/grid-browser) · [Product direction](https://github.com/Ethereal-Space-one/grid-browser/blob/main/PLAN.md)
 
 <br>
 
