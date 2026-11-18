@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 64" width="124" height="64" role="img" aria-label="Two original sources compared in one browser window, with a small saved reference">
+  <path d="M4 56c20 0 29-6 43-8s24 3 40-2 23-15 33-16M5 60c18 0 32-6 44-8s25 3 40-2 21-13 31-16" fill="none" stroke="#a4b0af" stroke-width=".75" opacity=".55"/>
+  <rect x="15" y="9" width="93" height="45" rx="6" fill="#f9f8f3" stroke="#607783" stroke-width="1.25"/>
+  <path d="M15 20.5h93" stroke="#8a9b9d" stroke-width=".8"/>
+  <g fill="#8a9b9d"><circle cx="23" cy="15" r="1.15"/><circle cx="27" cy="15" r="1.15"/><circle cx="31" cy="15" r="1.15"/></g>
+  <path d="M45 15h30" stroke="#a5afab" stroke-width=".9" stroke-linecap="round"/>
+  <path d="M20 23h40v26H20z" fill="#e8eeec"/><path d="M63 23h40v26H63z" fill="#f1efe7"/>
+  <path d="M61.5 23v27" stroke="#a1b0ac" stroke-width=".75"/>
+  <path d="M25 40l9-9 6 5 8-7 7 11z" fill="#cddcd8" stroke="#879e9e" stroke-width=".85" stroke-linejoin="round"/>
+  <path d="M69 29h21m-21 6h28m-28 6h17M25 44h28" stroke="#859a9d" stroke-width=".85" stroke-linecap="round"/>
+  <path d="M90 49h8v10l-4-2.8-4 2.8z" fill="#f3e6d8" stroke="#975f49" stroke-width="1.05" stroke-linejoin="round"/>
+</svg>

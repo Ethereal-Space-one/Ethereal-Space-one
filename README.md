@@ -1,29 +1,42 @@
 <p align="right"><strong>English</strong> · <a href="README.zh-CN.md">简体中文</a></p>
 
-![Ethereal Space: a thin river of ink running through four open projects](profile-index.svg)
+![Ethereal Space: Notebook of Open Projects](profile-index.svg)
 
-# I make tools for reading things more closely.
+# Open projects
 
-Read code back to the decisions it contains. Read fiction without losing the words. Find the page you meant to find, and keep your place when a long job stops.
+## 01 · [Code2KB Agent Toolkit](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit)
 
-## 01　Code2KB Agent Toolkit
+<img src="profile-code2kb.png" width="896" alt="Turn business logic from code into knowledge people can use and verify. An order-lookup example traces a regional restriction back to its source.">
 
-**Turn the business logic in source code into knowledge a chatbot can retrieve and people can verify.** Your coding assistant extracts and writes; Code2KB checks evidence and review state before packaging the result. It leaves indexing and chatbot deployment to you.
+Give your existing AI coding assistant a module and a pinned revision. Code2KB helps it extract business logic, including workflows, conditions, and exceptions, and ties the resulting knowledge to source evidence. After review, the toolkit publishes a business edition for readers and Q&A systems, and an engineering edition with implementation details and source references. It prepares the knowledge; it doesn’t run the chatbot.
 
 [See a sample Q&A](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/blob/62f3012dc5380918efec38e4114e24e231a6e211/conformance/english/knowledge.md) · [Explore the toolkit](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit) · [Quick start](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/blob/main/README.en.md#quick-start) · [v2.4.1 release](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/releases/tag/v2.4.1)
 
-## 02　Taleprism
+## 02 · [Taleprism](https://github.com/Ethereal-Space-one/taleprism)
 
-**Keep every word. Let a scene have its sound.** Taleprism is a local workbench for making illustrated fiction and a standalone reader. Character allegiances and maps unfold with the text; illustrations, short soundscapes, and subtle motion only appear where the passage calls for them.
+<img src="profile-taleprism.png" width="896" alt="Create illustrated editions of fiction without changing the original text. A Red Cliffs ink-wash scene depicts the passage where a brief wind soundscape plays.">
 
-[Read *Red Cliffs* online](https://ethereal-space-one.github.io/taleprism/) · [Read *The Door Left Open* offline](https://github.com/Ethereal-Space-one/taleprism/releases/download/v0.9.2/taleprism-v0.9.2-the-door-left-open-reader.zip) · [Project](https://github.com/Ethereal-Space-one/taleprism)
+A local workbench for creating illustrated editions of fiction without rewriting the original text. Authors place illustrations, sound, and subtle motion at specific passages, then export a reader that opens in the browser without installation. In *Red Cliffs*, maps and allegiances unfold as you read; a brief soundscape brings wind to the passage where the flags stir.
 
----
+[Read *Red Cliffs* online](https://ethereal-space-one.github.io/taleprism/) · [Read *The Door Left Open* offline](https://github.com/Ethereal-Space-one/taleprism/releases/download/v0.9.2/taleprism-v0.9.2-the-door-left-open-reader.zip) · [Explore Taleprism](https://github.com/Ethereal-Space-one/taleprism)
 
 ### Also on the workbench
 
-**[Grid Browser](https://github.com/Ethereal-Space-one/grid-browser)** · A browser prototype that starts with what you are looking for and keeps the original page close. Search and reading are usable in the Electron prototype; it is not a daily browser. [Product direction](https://github.com/Ethereal-Space-one/grid-browser/blob/main/PLAN.md)
-
-**[Long Task Runbook](https://github.com/Ethereal-Space-one/long-task-runbook)** · An agent skill for breaking long work into reviewable packets, resuming from checkpoints, and checking results against original evidence. [Download](https://github.com/Ethereal-Space-one/long-task-runbook/releases/latest)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<img src="profile-grid.svg" width="72" align="right" alt="Two sources in one browser window">
+<strong>03 · <a href="https://github.com/Ethereal-Space-one/grid-browser">Grid Browser</a></strong><br>
+Compare sources and save your judgement with citations.<br>
+<a href="https://github.com/Ethereal-Space-one/grid-browser/blob/release/v0.2.1/docs/TRY_GRID_0.2.1.md">Preview guide</a> · <a href="https://github.com/Ethereal-Space-one/grid-browser/blob/main/PLAN.md">Product direction</a>
+</td>
+<td width="50%" valign="top">
+<img src="profile-runbook.svg" width="72" align="right" alt="A path linking checkpoints to an evidence note">
+<strong>04 · <a href="https://github.com/Ethereal-Space-one/long-task-runbook">Long Task Runbook</a></strong><br>
+Hand off work and resume from verified checkpoints.<br>
+<a href="https://github.com/Ethereal-Space-one/long-task-runbook/blob/main/skills/long-task-runbook/SKILL.md">Read the skill</a> · <a href="https://github.com/Ethereal-Space-one/long-task-runbook/releases/latest">Download</a>
+</td>
+</tr>
+</table>
 
 [All public repositories](https://github.com/Ethereal-Space-one?tab=repositories) · [Source for this page](https://github.com/Ethereal-Space-one/Ethereal-Space-one)

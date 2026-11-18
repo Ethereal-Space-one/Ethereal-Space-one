@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 64" width="124" height="64" role="img" aria-label="A task route crosses a handoff checkpoint and ends at an evidence note">
+  <path d="M4 53c24 0 35-20 57-20h8c20 0 26 14 51 14M4 57c26 0 36-20 57-20h8c20 0 26 14 51 14" fill="none" stroke="#a4b0af" stroke-width=".75" opacity=".55"/>
+  <path d="M8 46c20 0 28-19 47-19h3m11 0h4c13 0 20 13 28 13h13" fill="none" stroke="#607783" stroke-width="1.25" stroke-linecap="round"/>
+  <path d="M59 27h9" fill="none" stroke="#975f49" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="1 2.5"/>
+  <g stroke="#607783" stroke-width="1.05"><rect x="24" y="36" width="6.5" height="6.5" rx=".8" fill="#f9f8f3"/><rect x="77" y="25" width="6.5" height="6.5" rx=".8" fill="#e8eeec"/></g>
+  <rect x="59.5" y="23.5" width="7" height="7" rx=".8" transform="rotate(45 63 27)" fill="#f3e6d8" stroke="#975f49" stroke-width="1.1"/>
+  <path d="M92 7h16l7 7v22H92z" fill="#f9f8f3" stroke="#607783" stroke-width="1.1" stroke-linejoin="round"/>
+  <path d="M108 7v7h7m-18 6h12m-12 5h10m-10 5h7" fill="none" stroke="#859a9d" stroke-width=".85" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="105" cy="40" r="1.7" fill="#975f49"/>
+</svg>
