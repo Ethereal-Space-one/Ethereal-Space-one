@@ -6,7 +6,7 @@
 
 ## 01 · [Code2KB Agent Toolkit](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit)
 
-<img src="profile-code2kb.png" width="896" alt="Turn business logic from code into knowledge people can use and verify. An order-lookup example traces a regional restriction back to its source.">
+<img src="https://raw.githubusercontent.com/Ethereal-Space-one/Ethereal-Space-one/cd4bcc0a7ff7219ae6b605f24384e1e27165ba54/profile-code2kb.png" width="896" alt="Turn business logic from code into knowledge people can use and verify. An order-lookup example traces a regional restriction back to its source.">
 
 Give your existing AI coding assistant a module and a pinned revision. Code2KB helps it extract business logic, including workflows, conditions, and exceptions, and ties the resulting knowledge to source evidence. After review, the toolkit publishes a business edition for readers and Q&A systems, and an engineering edition with implementation details and source references. It prepares the knowledge; it doesn’t run the chatbot.
 
@@ -14,7 +14,7 @@ Give your existing AI coding assistant a module and a pinned revision. Code2KB h
 
 ## 02 · [Taleprism](https://github.com/Ethereal-Space-one/taleprism)
 
-<img src="profile-taleprism.png" width="896" alt="Create illustrated editions of fiction without changing the original text. A Red Cliffs ink-wash scene depicts the passage where a brief wind soundscape plays.">
+<img src="https://raw.githubusercontent.com/Ethereal-Space-one/Ethereal-Space-one/cd4bcc0a7ff7219ae6b605f24384e1e27165ba54/profile-taleprism.png" width="896" alt="Create illustrated editions of fiction without changing the original text. A Red Cliffs ink-wash scene depicts the passage where a brief wind soundscape plays.">
 
 A local workbench for creating illustrated editions of fiction without rewriting the original text. Authors place illustrations, sound, and subtle motion at specific passages, then export a reader that opens in the browser without installation. In *Red Cliffs*, maps and allegiances unfold as you read; a brief soundscape brings wind to the passage where the flags stir.
 
