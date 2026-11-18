@@ -1,53 +1,29 @@
 <p align="right"><a href="README.md">English</a> · <strong>简体中文</strong></p>
 
-![Ethereal Space — Tools for knowledge. Room for imagination.](assets/header-v4.svg)
+![Ethereal Space 沧浪：一条墨线串起四个开源项目](profile-index.svg)
 
-我在构建关于**知识、创造力与个人互联网**的开放工具。
+# 我做一些让人读得更仔细的工具。
 
-探索 AI 如何帮助我们理解代码、看见故事，以及带着自己的方向使用网络。
+从代码里读出业务是怎么运转的，从小说里听见文字没说完的声音。找网页不被推荐流牵走，长任务中断后还能接着做。
 
-<br>
+## 01　Code2KB Agent Toolkit
 
-## 开源作品
+**把从源码中提取的业务逻辑，整理成可供机器人问答、也能回到源码核对的知识。** 编码助手负责提取和写作；Code2KB 检查证据与审核状态，再生成交付物。搜索索引和机器人部署仍由你决定。
 
-### [code2kb-agent-toolkit](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit)
+[看一份订单问答示例（英文）](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/blob/62f3012dc5380918efec38e4114e24e231a6e211/conformance/english/knowledge.md) · [查看工具包](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit) · [v2.4.1 发布记录](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/releases/tag/v2.4.1)
 
-<a href="https://github.com/Ethereal-Space-one/code2kb-agent-toolkit"><img src="assets/code2kb-v3.svg" width="100%" alt="Code2KB Agent Toolkit · Knowledge" /></a>
+## 02　Taleprism
 
-交给现有 AI 编码助手的工具包，将**从源码中提取的业务逻辑整理成有证据、可供机器人检索的知识**。
+**原文一字不改，让读到的那一幕有自己的声音。** Taleprism 是本地制作台，也是一种不必安装的读本。地图和人物阵营随进度展开，图、短声景和局部动效只落在适合的段落。《赤壁》读到旗动能听见风，《留门》则把雨和经过巷口的车留在同一小段里。
 
-**工作流程。** AI 负责取证与写作，CLI 检查证据记录、审核状态并生成发布文件；检索索引和机器人部署由使用方接入。
+[在线读《赤壁》](https://ethereal-space-one.github.io/taleprism/) · [下载《留门》读本](https://github.com/Ethereal-Space-one/taleprism/releases/download/v0.9.2/taleprism-v0.9.2-the-door-left-open-reader.zip) · [查看项目](https://github.com/Ethereal-Space-one/taleprism)
 
-[了解工具包](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit) · [快速开始](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit#快速开始)
+---
 
-<br>
+### 工作台上的其他项目
 
-### [Taleprism](https://github.com/Ethereal-Space-one/taleprism)
+**[Grid Browser](https://github.com/Ethereal-Space-one/grid-browser)** · 从用户想找什么开始，把搜索、阅读和真实原页放在一个浏览器里。Electron 原型能体验搜索与阅读，还不是日用浏览器。[产品方向](https://github.com/Ethereal-Space-one/grid-browser/blob/main/PLAN.md)
 
-<a href="https://github.com/Ethereal-Space-one/taleprism"><img src="assets/taleprism-v2.svg" width="100%" alt="Taleprism · Story and image" /></a>
+**[Long Task Runbook](https://github.com/Ethereal-Space-one/long-task-runbook)** · 面向多阶段工作的 Agent Skill：把任务拆成可验收的小包，靠检查点续跑，再用原始证据复核交付。[下载 Skill](https://github.com/Ethereal-Space-one/long-task-runbook/releases/latest)
 
-面向图文小说的**提示词工作流与本地制作台**，保留原文，协调人物、场景与可选声音，构建连续的阅读体验。
-
-**公开试用。** 面向单章与短篇：在自己的工具中生成图片，审校连续性，再导出独立阅读器。
-
-[阅读《赤壁》示例](https://ethereal-space-one.github.io/taleprism/) · [了解项目](https://github.com/Ethereal-Space-one/taleprism)
-
-<br>
-
-### [Grid Browser](https://github.com/Ethereal-Space-one/grid-browser)
-
-<a href="https://github.com/Ethereal-Space-one/grid-browser"><img src="assets/grid-v2.svg" width="100%" alt="Grid Browser · Experimental" /></a>
-
-以**用户意图而非推荐流为出发点**的开源浏览器项目，愿景是让你选择的 Agent 进入同一个真实浏览会话，由你掌控方向。
-
-**原型阶段。** 当前 Electron 原型支持搜索、网页阅读和获授权的 MCP 只读接入；Agent 操作与接管仍在规划中，尚不适合日常使用。
-
-[了解实验](https://github.com/Ethereal-Space-one/grid-browser) · [产品方向](https://github.com/Ethereal-Space-one/grid-browser/blob/main/PLAN.md)
-
-<br>
-
-## 关注方向
-
-**有据可循的知识** · **视觉叙事** · **人机协作**
-
-欢迎通过相应项目的仓库交流问题、想法与反馈。
+[全部公开仓库](https://github.com/Ethereal-Space-one?tab=repositories) · [本页源码](https://github.com/Ethereal-Space-one/Ethereal-Space-one)

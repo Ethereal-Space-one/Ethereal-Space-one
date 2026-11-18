@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 306" width="960" height="306" role="img" aria-labelledby="title desc">
+  <title id="title">Ethereal Space</title>
+  <desc id="desc">Four tiny notebook marks connected by an ink-blue river: evidence, fiction, reading, and agent work.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#fbfaf6"/><stop offset="1" stop-color="#f0eee6"/>
+    </linearGradient>
+    <clipPath id="page"><rect x="1" y="1" width="958" height="304" rx="16"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="958" height="304" rx="16" fill="url(#paper)" stroke="#d4d0c6"/>
+  <g clip-path="url(#page)">
+    <g fill="none" stroke="#48627e" stroke-linecap="round">
+      <path opacity=".20" d="M467 315C519 298 493 248 550 215S660 202 694 165S693 101 751 82S857 102 893 71S897 10 958 1"/>
+      <path opacity=".27" d="M476 315C531 296 504 254 556 221S670 207 704 169S702 107 756 89S865 108 901 76S905 14 964 8"/>
+      <path opacity=".40" d="M485 315C544 292 515 259 563 228S680 212 714 174S711 115 761 97S873 115 910 82S914 19 966 16"/>
+      <path stroke="#26465c" stroke-width="1.7" d="M497 315C554 292 526 265 571 234S692 220 724 179S720 122 769 104S882 122 919 88S922 26 971 24"/>
+      <path opacity=".32" d="M510 315C565 290 538 270 580 240S701 225 734 185S731 130 775 111S890 128 927 94S929 34 976 32"/>
+      <path opacity=".19" d="M524 315C578 287 549 276 588 248S712 231 743 190S741 137 782 119S900 135 936 101S937 42 983 40"/>
+      <path opacity=".15" d="M540 315C589 286 560 281 597 255S723 238 753 197S752 146 790 127S909 143 945 108S945 50 994 47"/>
+    </g>
+    <g fill="#fbfaf6" stroke="#314c60" stroke-width="1.3">
+      <rect x="567" y="230" width="8" height="8"/>
+      <rect x="720" y="175" width="8" height="8"/>
+      <rect x="765" y="100" width="8" height="8"/>
+      <rect x="915" y="84" width="8" height="8"/>
+    </g>
+    <g stroke="#b9b3a8" fill="none"><path d="M47 231h367M47 49h29"/></g>
+    <g fill="#914531"><rect x="83" y="46" width="6" height="6"/><circle cx="724" cy="179" r="1.6"/></g>
+    <text x="100" y="54" fill="#59584f" font-family="monospace" font-size="11" letter-spacing="2.2">OPEN WORK / 01–04</text>
+    <text x="43" y="134" fill="#202b31" font-family="Georgia, Libre Baskerville, serif" font-size="76" letter-spacing="-3.4">Ethereal</text>
+    <text x="44" y="201" fill="#202b31" font-family="Georgia, Libre Baskerville, serif" font-size="76" font-style="italic" letter-spacing="-3.2">Space.</text>
+    <text x="47" y="259" fill="#51554e" font-family="monospace" font-size="12" letter-spacing="1.9">NOTEBOOK OF OPEN PROJECTS</text>
+    <g font-family="monospace" font-size="13" fill="#414846">
+      <text x="516" y="210">01</text><text x="669" y="157">02</text>
+      <text x="720" y="83">03</text><text x="873" y="59">04</text>
+    </g>
+  </g>
+</svg>
