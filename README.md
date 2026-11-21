@@ -4,6 +4,8 @@
 
 # Open projects
 
+Read the business rules in code and hear the world of a novel. Compare sources on the open web, or pick up a long task where it left off.
+
 ## 01 · [Code2KB Agent Toolkit](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit)
 
 <img src="https://raw.githubusercontent.com/Ethereal-Space-one/Ethereal-Space-one/cd4bcc0a7ff7219ae6b605f24384e1e27165ba54/profile-code2kb.png" width="896" alt="Turn business logic from code into knowledge people can use and verify. An order-lookup example traces a regional restriction back to its source.">
