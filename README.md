@@ -1,10 +1,10 @@
 <p align="right"><strong>English</strong> · <a href="README.zh-CN.md">简体中文</a></p>
 
-![Ethereal Space: Notebook of Open Projects](profile-index.svg)
+![Ethereal Space: Project Notebook](profile-index.svg)
 
-# Open projects
+# Selected projects
 
-Read the business rules in code and hear the world of a novel. Compare sources on the open web, or pick up a long task where it left off.
+Read the business rules in code, hear the world of a novel, or carry a project's memory across AI sessions.
 
 ## 01 · [Code2KB Agent Toolkit](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit)
 
@@ -22,19 +22,27 @@ A local workbench for creating illustrated editions of fiction without rewriting
 
 [Read *Red Cliffs* online](https://ethereal-space-one.github.io/taleprism/) · [Read *The Door Left Open* offline](https://github.com/Ethereal-Space-one/taleprism/releases/download/v0.9.2/taleprism-v0.9.2-the-door-left-open-reader.zip) · [Explore Taleprism](https://github.com/Ethereal-Space-one/taleprism)
 
+## 03 · Context Almanac
+
+<img src="profile-almanac.svg" width="896" alt="An illustration of two agent sessions linked to a project record that keeps the decision, next step, and original source.">
+
+**A personal knowledge base for work that spans AI sessions.** Context Almanac brings conversations from the same project together. It keeps decisions, next steps, and their sources in one place, so a new session can pick up the work without guessing what happened before.
+
+*Private preview · No public download yet.*
+
 ### Also on the workbench
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 <img src="profile-grid.svg" width="72" align="right" alt="Two sources in one browser window">
-<strong>03 · <a href="https://github.com/Ethereal-Space-one/grid-browser">Grid Browser</a></strong><br>
+<strong>04 · <a href="https://github.com/Ethereal-Space-one/grid-browser">Grid Browser</a></strong><br>
 Compare sources and save your judgement with citations.<br>
 <a href="https://github.com/Ethereal-Space-one/grid-browser/blob/release/v0.2.1/docs/TRY_GRID_0.2.1.md">Preview guide</a> · <a href="https://github.com/Ethereal-Space-one/grid-browser/blob/main/PLAN.md">Product direction</a>
 </td>
 <td width="50%" valign="top">
 <img src="profile-runbook.svg" width="72" align="right" alt="A path linking checkpoints to an evidence note">
-<strong>04 · <a href="https://github.com/Ethereal-Space-one/long-task-runbook">Long Task Runbook</a></strong><br>
+<strong>05 · <a href="https://github.com/Ethereal-Space-one/long-task-runbook">Long Task Runbook</a></strong><br>
 Hand off work and resume from verified checkpoints.<br>
 <a href="https://github.com/Ethereal-Space-one/long-task-runbook/blob/main/skills/long-task-runbook/SKILL.md">Read the skill</a> · <a href="https://github.com/Ethereal-Space-one/long-task-runbook/releases/latest">Download</a>
 </td>

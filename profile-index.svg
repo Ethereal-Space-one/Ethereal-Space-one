@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 306" width="960" height="306" role="img" aria-labelledby="title desc">
   <title id="title">Ethereal Space</title>
-  <desc id="desc">Four tiny notebook marks connected by an ink-blue river: evidence, fiction, reading, and agent work.</desc>
+  <desc id="desc">Five notebook marks connected by an ink-blue river: code, fiction, project memory, reading, and agent work.</desc>
   <defs>
     <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1" gradientUnits="objectBoundingBox">
       <stop stop-color="#fbfaf6"/><stop offset="1" stop-color="#f0eee6"/>
@@ -22,17 +22,18 @@
       <rect x="567" y="230" width="8" height="8"/>
       <rect x="720" y="175" width="8" height="8"/>
       <rect x="765" y="100" width="8" height="8"/>
+      <rect x="835" y="91" width="8" height="8"/>
       <rect x="915" y="84" width="8" height="8"/>
     </g>
     <g stroke="#b9b3a8" fill="none"><path d="M47 231h367M47 49h29"/></g>
     <g fill="#914531"><rect x="83" y="46" width="6" height="6"/><circle cx="724" cy="179" r="1.6"/></g>
-    <text x="100" y="54" fill="#59584f" font-family="monospace" font-size="11" letter-spacing="2.2">OPEN WORK / 01–04</text>
+    <text x="100" y="54" fill="#59584f" font-family="monospace" font-size="11" letter-spacing="2.2">SELECTED WORK / 01–05</text>
     <text x="43" y="134" fill="#202b31" font-family="Georgia, Libre Baskerville, serif" font-size="76" letter-spacing="-3.4">Ethereal</text>
     <text x="44" y="201" fill="#202b31" font-family="Georgia, Libre Baskerville, serif" font-size="76" font-style="italic" letter-spacing="-3.2">Space.</text>
-    <text x="47" y="259" fill="#51554e" font-family="monospace" font-size="12" letter-spacing="1.9">NOTEBOOK OF OPEN PROJECTS</text>
+    <text x="47" y="259" fill="#51554e" font-family="monospace" font-size="12" letter-spacing="1.9">PROJECT NOTEBOOK</text>
     <g font-family="monospace" font-size="13" fill="#414846">
       <text x="516" y="210">01</text><text x="669" y="157">02</text>
-      <text x="720" y="83">03</text><text x="873" y="59">04</text>
+      <text x="720" y="83">03</text><text x="813" y="71">04</text><text x="873" y="59">05</text>
     </g>
   </g>
 </svg>

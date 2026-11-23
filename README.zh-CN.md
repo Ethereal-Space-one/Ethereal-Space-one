@@ -1,10 +1,10 @@
 <p align="right"><a href="README.md">English</a> · <strong>简体中文</strong></p>
 
-![Ethereal Space 沧浪：一条墨线串起四个开源项目](profile-index.svg)
+![Ethereal Space 沧浪：一条墨线串起五个项目](profile-index.svg)
 
-# 开源作品
+# 精选作品
 
-从代码里读出业务是怎么运转的，从小说里听见文字没说完的声音。找网页不被推荐流牵走，长任务中断后还能接着做。
+从代码里读出业务规则，从小说里听见那一幕的声音，也让项目记忆跟得上一次次 AI 会话。
 
 ## 01 · [Code2KB Agent Toolkit](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit)
 
@@ -22,19 +22,27 @@
 
 [在线读《赤壁》](https://ethereal-space-one.github.io/taleprism/) · [下载《留门》读本](https://github.com/Ethereal-Space-one/taleprism/releases/download/v0.9.2/taleprism-v0.9.2-the-door-left-open-reader.zip) · [查看项目](https://github.com/Ethereal-Space-one/taleprism)
 
+## 03 · Context Almanac
+
+<img src="profile-almanac.svg" width="896" alt="插画：两次 Agent 会话连到同一份项目档案，留下决定、下一步和原始出处。">
+
+**为跨 AI 会话的项目建一份个人知识库。** Context Almanac 把同一项目的对话归到一起，留下做过的决定、下一步和原始出处。换个会话，不用再靠一段旧摘要猜项目做到哪了。
+
+*私有试用中 · 暂无公开下载。*
+
 ### 工作台上的其他项目
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 <img src="profile-grid.svg" width="72" align="right" alt="同一浏览器窗口中的两份资料">
-<strong>03 · <a href="https://github.com/Ethereal-Space-one/grid-browser">Grid Browser</a></strong><br>
+<strong>04 · <a href="https://github.com/Ethereal-Space-one/grid-browser">Grid Browser</a></strong><br>
 在原页之间比对资料，保存带出处的判断。<br>
 <a href="https://github.com/Ethereal-Space-one/grid-browser/blob/release/v0.2.1/docs/TRY_GRID_0.2.1.md">预览指南</a> · <a href="https://github.com/Ethereal-Space-one/grid-browser/blob/main/PLAN.md">产品方向</a>
 </td>
 <td width="50%" valign="top">
 <img src="profile-runbook.svg" width="72" align="right" alt="检查点与证据笔记之间的连线">
-<strong>04 · <a href="https://github.com/Ethereal-Space-one/long-task-runbook">Long Task Runbook</a></strong><br>
+<strong>05 · <a href="https://github.com/Ethereal-Space-one/long-task-runbook">Long Task Runbook</a></strong><br>
 交接长任务，从核验过的检查点继续。<br>
 <a href="https://github.com/Ethereal-Space-one/long-task-runbook/blob/main/skills/long-task-runbook/SKILL.md">阅读 Skill</a> · <a href="https://github.com/Ethereal-Space-one/long-task-runbook/releases/latest">下载</a>
 </td>
