@@ -5,8 +5,11 @@
     <linearGradient id="paper" x2="1" y2="1" gradientUnits="objectBoundingBox">
       <stop stop-color="#fbfaf6"/><stop offset="1" stop-color="#f0eee6"/>
     </linearGradient>
-    <linearGradient id="note" x2="1" y2="1" gradientUnits="objectBoundingBox">
-      <stop stop-color="#fdfbf7"/><stop offset="1" stop-color="#f5f3ec"/>
+    <linearGradient id="note-blue" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#d3e1ed"/><stop offset="1" stop-color="#e6ebee"/>
+    </linearGradient>
+    <linearGradient id="note-amber" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#efccaa"/><stop offset="1" stop-color="#f2e3cd"/>
     </linearGradient>
     <clipPath id="page"><rect x="1" y="1" width="958" height="304" rx="16"/></clipPath>
   </defs>
@@ -28,27 +31,28 @@
     <text x="47" y="250" fill="#525a55" font-family="Georgia, serif" font-size="12.5" letter-spacing=".28">Keep the decision, the next step, and the source.</text>
     <g transform="translate(-38 0) rotate(-7 763 126)">
       <rect x="720" y="47" width="151" height="166" rx="10" fill="#e4e3db" opacity=".7"/>
-      <rect x="716" y="43" width="151" height="166" rx="10" fill="url(#note)" stroke="#bac3bf"/>
-      <text x="732" y="68" font-family="monospace" font-size="10" letter-spacing="1.35" fill="#516779">SESSION 01</text>
-      <path d="M732 82h108m-108 11h83m-83 12h101m-101 12h64" fill="none" stroke="#acb6b6" stroke-opacity=".55" stroke-linecap="round"/>
+      <rect x="716" y="43" width="151" height="166" rx="10" fill="url(#note-blue)" stroke="#7893a7"/>
+      <text x="732" y="68" font-family="monospace" font-size="10" letter-spacing="1.35" fill="#284e6a">SESSION 01</text>
+      <path d="M732 82h108m-108 11h83m-83 12h101m-101 12h64" fill="none" stroke="#6a889f" stroke-opacity=".6" stroke-linecap="round"/>
     </g>
     <g transform="translate(28 0) rotate(6 809 130)">
       <rect x="741" y="54" width="156" height="164" rx="10" fill="#deded5" opacity=".67"/>
-      <rect x="737" y="50" width="156" height="164" rx="10" fill="url(#note)" stroke="#b6c0c0"/>
-      <text x="766" y="75" font-family="monospace" font-size="10" letter-spacing="1.35" fill="#516779">SESSION 02</text>
-      <path d="M767 90h99m-99 12h74m-74 12h92m-92 12h62" fill="none" stroke="#acb6b6" stroke-opacity=".52" stroke-linecap="round"/>
+      <rect x="737" y="50" width="156" height="164" rx="10" fill="url(#note-amber)" stroke="#b39070"/>
+      <text x="766" y="75" font-family="monospace" font-size="10" letter-spacing="1.35" fill="#834d2c">SESSION 02</text>
+      <path d="M767 90h99m-99 12h74m-74 12h92m-92 12h62" fill="none" stroke="#a77c58" stroke-opacity=".58" stroke-linecap="round"/>
     </g>
     <rect x="521" y="91" width="277" height="111" rx="11" fill="#d8dedb" opacity=".50"/>
-    <rect x="518" y="87" width="277" height="111" rx="11" fill="#fbfaf5" stroke="#a9b9bf"/>
-    <text x="537" y="112" font-family="monospace" font-size="10" letter-spacing="1.35" fill="#4e6779">PROJECT MEMORY</text>
+    <rect x="518" y="87" width="277" height="111" rx="11" fill="#f9fbfa" stroke="#8fa7ae"/>
+    <text x="537" y="112" font-family="monospace" font-size="10" letter-spacing="1.35" fill="#356580">PROJECT MEMORY</text>
+    <circle cx="773" cy="108" r="3.1" fill="#b46542"/>
     <text x="537" y="141" font-family="Georgia, serif" font-size="20" fill="#253641">Decision and next step</text>
     <path d="M537 155h208" fill="none" stroke="#d3d8d4"/>
     <text x="537" y="177" font-family="monospace" font-size="10.5" fill="#4f6068">SOURCE: SESSION 01</text>
-    <path d="M704 68C758 76 799 123 783 161S799 215 846 225" fill="none" stroke="#425f78" stroke-width="1.65" stroke-linecap="round"/>
-    <circle cx="704" cy="68" r="3" fill="#f8f6ef" stroke="#425f78"/>
-    <circle cx="783" cy="161" r="3" fill="#f8f6ef" stroke="#425f78"/>
-    <rect x="678" y="224" width="227" height="36" rx="8" fill="#f8f7f0" stroke="#adbdc0"/>
-    <text x="694" y="246" font-family="monospace" font-size="10" letter-spacing="1.35" fill="#4d636e">ORIGINAL SOURCE ATTACHED</text>
+    <path d="M704 68C758 76 799 123 783 161S799 215 846 225" fill="none" stroke="#2b597b" stroke-width="2.35" stroke-linecap="round"/>
+    <circle cx="704" cy="68" r="3" fill="#d6e8f2" stroke="#2b597b"/>
+    <circle cx="783" cy="161" r="3" fill="#d6e8f2" stroke="#2b597b"/>
+    <rect x="678" y="224" width="227" height="36" rx="8" fill="#e4edf3" stroke="#89a3b7"/>
+    <text x="694" y="246" font-family="monospace" font-size="10" letter-spacing="1.35" fill="#34566f">ORIGINAL SOURCE ATTACHED</text>
     <circle cx="882" cy="242" r="2.5" fill="#914531"/>
   </g>
 </svg>
