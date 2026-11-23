@@ -24,7 +24,7 @@
 
 ## 03 · Context Almanac
 
-<img src="profile-almanac.svg" width="896" alt="插画：两次 Agent 会话连到同一份项目档案，留下决定、下一步和原始出处。">
+<img src="https://raw.githubusercontent.com/Ethereal-Space-one/Ethereal-Space-one/26e02db608ccc7f2c6002cec2d7630a4605a986c/profile-almanac.svg" width="896" alt="插画：两次 Agent 会话连到同一份项目档案，留下决定、下一步和原始出处。">
 
 **为跨 AI 会话的项目建一份个人知识库。** Context Almanac 把同一项目的对话归到一起，留下做过的决定、下一步和原始出处。换个会话，不用再靠一段旧摘要猜项目做到哪了。
 

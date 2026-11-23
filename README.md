@@ -24,7 +24,7 @@ A local workbench for creating illustrated editions of fiction without rewriting
 
 ## 03 · Context Almanac
 
-<img src="profile-almanac.svg" width="896" alt="An illustration of two agent sessions linked to a project record that keeps the decision, next step, and original source.">
+<img src="https://raw.githubusercontent.com/Ethereal-Space-one/Ethereal-Space-one/26e02db608ccc7f2c6002cec2d7630a4605a986c/profile-almanac.svg" width="896" alt="An illustration of two agent sessions linked to a project record that keeps the decision, next step, and original source.">
 
 **A personal knowledge base for work that spans AI sessions.** Context Almanac brings conversations from the same project together. It keeps decisions, next steps, and their sources in one place, so a new session can pick up the work without guessing what happened before.
 
