@@ -12,7 +12,7 @@
 
 **把从源码中提取的业务逻辑，整理成可供机器人问答、也能回到源码核对的知识。** 编码助手负责提取和写作；Code2KB 检查证据与审核状态，再生成交付物。搜索索引和机器人部署仍由你决定。
 
-[看一份订单问答示例（英文）](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/blob/62f3012dc5380918efec38e4114e24e231a6e211/conformance/english/knowledge.md) · [查看工具包](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit) · [快速上手（英文）](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/blob/v2.4.1/README.en.md#quick-start) · [v2.4.1 发布记录](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/releases/tag/v2.4.1)
+[看一份订单问答示例（英文）](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/blob/62f3012dc5380918efec38e4114e24e231a6e211/conformance/english/knowledge.md) · [查看工具包](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit) · [安装 v2.4.1](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/blob/ba141d1ec094947ef07f0cca4d85a1bc73aefa67/docs/plugin-installation.md#先选定你要的版本) · [v2.4.1 发布记录](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/releases/tag/v2.4.1)
 
 ## 02 · [Taleprism](https://github.com/Ethereal-Space-one/taleprism)
 
