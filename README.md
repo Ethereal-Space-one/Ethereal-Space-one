@@ -12,7 +12,7 @@ Read the business rules in code, hear the world of a novel, or carry a project's
 
 Give your existing AI coding assistant a module and a pinned revision. Code2KB helps it extract business logic, including workflows, conditions, and exceptions, and ties the resulting knowledge to source evidence. After review, the toolkit publishes a business edition for readers and Q&A systems, and an engineering edition with implementation details and source references. It prepares the knowledge; it doesn’t run the chatbot.
 
-[See a sample Q&A](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/blob/62f3012dc5380918efec38e4114e24e231a6e211/conformance/english/knowledge.md) · [Explore the toolkit](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit) · [Quick start](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/blob/v2.4.1/README.en.md#quick-start) · [v2.4.1 release](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/releases/tag/v2.4.1)
+[See a sample Q&A](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/blob/62f3012dc5380918efec38e4114e24e231a6e211/conformance/english/knowledge.md) · [Explore the toolkit](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit) · [Install v2.4.1](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/blob/ba141d1ec094947ef07f0cca4d85a1bc73aefa67/docs/plugin-installation.md#english) · [v2.4.1 release](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit/releases/tag/v2.4.1)
 
 ## 02 · [Taleprism](https://github.com/Ethereal-Space-one/taleprism)
 
